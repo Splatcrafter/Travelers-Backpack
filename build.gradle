@@ -55,8 +55,8 @@ dependencies {
 	//OPTIONAL
 
 	//LambDynamicLights
-	compileOnly("dev.lambdaurora.lambdynamiclights:lambdynamiclights-api:4.10.2+26.1.2")
-	localRuntime("dev.lambdaurora.lambdynamiclights:lambdynamiclights-runtime:4.10.2+26.1.2")
+	compileOnly("dev.lambdaurora.lambdynamiclights:lambdynamiclights-api:4.10.0+26.1")
+	localRuntime("dev.lambdaurora.lambdynamiclights:lambdynamiclights-runtime:4.10.0+26.1")
 
 	//Crafting Tweaks
 	compileOnly("maven.modrinth:balm:I9GF44A2")
